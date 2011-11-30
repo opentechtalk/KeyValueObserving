@@ -11,6 +11,7 @@
 @implementation AppDelegate
 
 @synthesize window = _window;
+@synthesize text = m_text;
 
 
 - (void)dealloc {

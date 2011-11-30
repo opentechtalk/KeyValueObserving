@@ -8,8 +8,12 @@
 
 #import <Cocoa/Cocoa.h>
 
-@interface AppDelegate : NSObject<NSApplicationDelegate>
+@interface AppDelegate : NSObject<NSApplicationDelegate> {
+	
+	NSString*	m_text;
+}
 
 @property (assign) IBOutlet NSWindow* window;
+@property (assign, readwrite) NSString* text;
 
 @end
