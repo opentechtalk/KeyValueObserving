@@ -1,13 +1,19 @@
 Cocoa KeyValueObserving, Bindings and Notification
 ==================================================
 
-This simple example shows how you can use KeyValueObserving, Bindings
-and Notification in Objective-C.
+This simple example shows how you can use 
+[KeyValueObserving](http://developer.apple.com/library/mac/#documentation/Cocoa/Conceptual/KeyValueObserving/KeyValueObserving.html), 
+[Bindings](http://developer.apple.com/library/mac/#documentation/Cocoa/Conceptual/CocoaBindings/CocoaBindings.html)
+and [Notification](http://developer.apple.com/library/mac/#documentation/Cocoa/Conceptual/Notifications/Introduction/introNotifications.html#//apple_ref/doc/uid/10000043-SW1) 
+in Objective-C.
 
 Description
 ------------------
 Each example can be seen on a separate branch. The master branch 
 contains the basic project.
+
+There will be a separate branch on using Bindings programmatically 
+and through the Interface Builder.
 
 Screenshot
 ------------------
