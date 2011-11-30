@@ -12,6 +12,7 @@
 
 @synthesize window = _window;
 @synthesize text = m_text;
+@synthesize button = m_button;
 
 
 - (void)dealloc {
@@ -19,8 +20,13 @@
 }
 
 - (void)applicationDidFinishLaunching:(NSNotification*)notification {
+	self.text = @"Programmatic Bindings";
 }
 
-
+- (void)awakeFromNib {
+	assert(m_button);
+	
+	[self.button bind:@"title" toObject:self withKeyPath:@"text" options:nil];
+}
 
 @end
