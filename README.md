@@ -19,7 +19,7 @@ Screenshot
 ------------------
 The screenshot shows the user interface of the application.
 
-![Application screen shot](https://github.com/opentechtalk/KeyValueObserving/raw/master/screenshot.png "Application screen shot")
+![Application screen shot](https://github.com/opentechtalk/KeyValueObserving/raw/bindings_interfacebuilder/screenshot.png "Application screen shot")
 
 
 
