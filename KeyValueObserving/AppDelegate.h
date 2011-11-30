@@ -11,9 +11,11 @@
 @interface AppDelegate : NSObject<NSApplicationDelegate> {
 	
 	NSString*	m_text;
+	NSButton*	m_button;
 }
 
 @property (assign) IBOutlet NSWindow* window;
 @property (assign, readwrite) NSString* text;
+@property (assign, readwrite) IBOutlet NSButton* button;
 
 @end
