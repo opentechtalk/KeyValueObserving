@@ -15,6 +15,8 @@ contains the basic project.
 There will be a separate branch on using Bindings programmatically 
 and through the Interface Builder.
 
+[Slides](http://www.scribd.com/doc/74264014/Cocoa-KeyValueObserving-Bindings-and-Notifications) are available online.
+
 Screenshot
 ------------------
 The screenshot shows the user interface of the application.
