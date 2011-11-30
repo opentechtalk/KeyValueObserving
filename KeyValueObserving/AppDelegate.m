@@ -19,6 +19,7 @@
 }
 
 - (void)applicationDidFinishLaunching:(NSNotification*)notification {
+	self.text = @"Bindings via Interface Builder";
 }
 
 
