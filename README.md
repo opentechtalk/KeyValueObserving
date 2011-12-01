@@ -12,10 +12,9 @@ Description
 Each example can be seen on a separate branch. The master branch 
 contains the basic project.
 
-There will be a separate branch on using Bindings programmatically 
-and through the Interface Builder.
-
-[Slides](http://www.scribd.com/doc/74264014/Cocoa-KeyValueObserving-Bindings-and-Notifications) are available online.
+* There are **separate branches** on using Bindings programmatically and through the Interface Builder.
+* [Slides](http://www.scribd.com/doc/74264014/Cocoa-KeyValueObserving-Bindings-and-Notifications) are available online.
+* [Video recordings of the talk](http://www.youtube.com/playlist?list=PL931630BEDF9FAB85) can be seen online.
 
 Screenshot
 ------------------
